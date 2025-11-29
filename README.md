@@ -1,5 +1,14 @@
 # Diabetic Retinopathy Detection on Edge AI Devices
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Edge Impulse](https://img.shields.io/badge/Edge%20Impulse-Studio-orange.svg)
+![License](https://img.shields.io/badge/License-Open%20Source-green.svg)
+![Model Accuracy](https://img.shields.io/badge/Accuracy-71.96%25-brightgreen.svg)
+![Model Size](https://img.shields.io/badge/Model%20Size-1.1%20MB-success.svg)
+![Status](https://img.shields.io/badge/Status-Edge%20Ready-success.svg)
+![Quantization](https://img.shields.io/badge/Quantization-INT8-blue.svg)
+![Target Device](https://img.shields.io/badge/Target-Cortex--M4F-lightgrey.svg)
+
 ## Team
 
 **A Team of undergrad students from India here to participate for the Edge AI contest**
