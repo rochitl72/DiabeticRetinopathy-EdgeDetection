@@ -9,9 +9,9 @@
 ![Quantization](https://img.shields.io/badge/Quantization-INT8-blue.svg)
 ![Target Device](https://img.shields.io/badge/Target-Cortex--M4F-lightgrey.svg)
 
-## Team
+## Team : THE DEN
 
-**A Team of undergrad students from India here to participate for the Edge AI contest**
+**A Team of Undergrad Students from India here to participate for the Edge AI contest**
 
 We are passionate undergraduate students from India working on innovative solutions for healthcare accessibility through Edge AI technology. This project represents our commitment to leveraging machine learning for social impact, particularly in making diabetic retinopathy screening accessible in resource-constrained environments.
 
