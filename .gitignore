@@ -98,4 +98,5 @@ docs/images/SCREENSHOT_GUIDE.md
 scripts/automate_edge_impulse.py
 scripts/automate_training.sh
 scripts/edge_impulse_api_automation.py
+scripts/edge_impulse_upload.py
 

@@ -37,7 +37,7 @@ RetinaX/
 ├── scripts/
 │   ├── data_preparation.py           # Data preprocessing and preparation
 │   ├── dataset_split.py              # Train/validation/test split
-│   └── edge_impulse_upload.py        # Scripts for Edge Impulse integration
+│   └── [other utility scripts]
 ├── models/
 │   └── edge_impulse_models/          # Exported Edge Impulse models
 └── config/
@@ -125,7 +125,7 @@ The model is optimized for:
 
 4. **Upload to Edge Impulse Studio**:
    - Follow instructions in `docs/model_development.md`
-   - Use `scripts/edge_impulse_upload.py` for automated upload
+   - Upload data manually via Edge Impulse Studio web interface
 
 5. **Train and optimize model**:
    - Use Edge Impulse Studio's training interface
