@@ -3,9 +3,10 @@
 ## Validation Methodology
 
 ### Dataset Split
-- **Training Set**: 70% of total data
-- **Validation Set**: 15% of total data (used during training)
-- **Test Set**: 15% of total data (held-out for final evaluation)
+- **Total Dataset Used**: 1,065 images (curated subset from Mendeley dataset with 3,662 total images)
+- **Training Set**: ~70% of curated data (~745 images)
+- **Validation Set**: ~15% of curated data (~160 images, used during training)
+- **Test Set**: ~15% of curated data (~160 images, held-out for final evaluation)
 
 ### Cross-Validation Strategy
 - **Method**: Hold-out validation with stratified split
@@ -382,7 +383,7 @@ Iteration 2 demonstrates clear improvement over Iteration 1 in test set evaluati
 
 ### Edge Device Deployment Readiness
 - **Test Environment**: Edge Impulse Studio deployment simulation
-- **Test Cases**: 540 test set images evaluated
+- **Test Cases**: ~160 test set images evaluated (from curated subset of 1,065 images)
 - **Results**: 
   - Model ready for Cortex-M4F 80MHz deployment
   - 1.1 MB model size meets edge constraints

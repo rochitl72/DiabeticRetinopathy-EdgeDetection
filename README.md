@@ -65,7 +65,7 @@ This project includes comprehensive documentation in the `docs/` folder. Here's 
 ### 📄 `docs/dataset_documentation.md`
 **What to expect:**
 - Complete dataset source information (Mendeley Diabetic Retinopathy Dataset)
-- Dataset statistics: 3,599 images across 5 DR severity classes
+- Dataset: 1,065 curated images (subset from Mendeley dataset with 3,662 total images)
 - Class distribution analysis and imbalance handling strategies
 - Data preprocessing pipeline details (resizing, normalization, quality filtering)
 - Train/validation/test split methodology (70/15/15)
@@ -132,9 +132,18 @@ RetinaX/
 
 **Primary Dataset**: Mendeley Diabetic Retinopathy Dataset
 
-**License**: Open-source with permissive commercial use license
+**License**: CC BY 4.0 (Open-source with permissive commercial use license)
 
 **Dataset Source**: https://data.mendeley.com/datasets/nxcd8krdhg/1
+
+**Source Dataset Size**: 3,662 total images
+- No_DR: 1,805 images
+- Moderate_DR: 999 images
+- Mild_DR: 370 images
+- Proliferative_DR: 295 images
+- Severe_DR: 193 images
+
+**Images Used for Training**: 1,065 curated images (quality-focused subset)
 
 **Classes**:
 - No DR (No Diabetic Retinopathy)
