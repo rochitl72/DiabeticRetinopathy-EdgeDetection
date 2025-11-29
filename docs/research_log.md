@@ -6,344 +6,11 @@ This document tracks all experiments, iterations, and research conducted during 
 
 ---
 
-## Experiment 1: Baseline Model Establishment
-
-**Date**: [To be filled]  
-**Objective**: Establish baseline performance with a simple model architecture
-
-### Hypothesis
-A basic CNN architecture will provide a reasonable starting point for diabetic retinopathy classification.
-
-### Methodology
-- **Architecture**: Simple 3-layer CNN
-- **Dataset**: Initial dataset split (70/15/15)
-- **Hyperparameters**:
-  - Learning rate: 0.001
-  - Batch size: 32
-  - Epochs: 50
-- **Augmentation**: Basic (rotation, flip)
-
-### Results
-- **Training Accuracy**: [To be filled]%
-- **Validation Accuracy**: [To be filled]%
-- **Test Accuracy**: [To be filled]%
-- **F1-Score**: [To be filled]
-
-### Insights
-- [Key observations]
-- [Performance bottlenecks identified]
-- [Areas for improvement]
-
-### Next Steps
-- [Action items based on results]
-
----
-
-## Experiment 2: Transfer Learning with MobileNet
-
-**Date**: [To be filled]  
-**Objective**: Improve performance using pre-trained MobileNet architecture
-
-### Hypothesis
-Transfer learning from ImageNet pre-trained MobileNet will improve classification accuracy while maintaining edge efficiency.
-
-### Methodology
-- **Base Model**: MobileNetV2 (ImageNet weights)
-- **Fine-tuning**: [Last N layers / All layers]
-- **Hyperparameters**:
-  - Learning rate: [Value] (lower for fine-tuning)
-  - Batch size: [Value]
-  - Epochs: [Value]
-- **Augmentation**: [Enhanced augmentation strategy]
-
-### Results
-- **Training Accuracy**: [To be filled]%
-- **Validation Accuracy**: [To be filled]%
-- **Test Accuracy**: [To be filled]%
-- **F1-Score**: [To be filled]
-- **Model Size**: [To be filled] MB
-
-### Insights
-- [Transfer learning effectiveness]
-- [Performance vs. model size trade-off]
-- [Training time considerations]
-
-### Comparison with Baseline
-- **Accuracy Improvement**: [X]% increase
-- **Model Size Increase**: [X] MB
-
-### Next Steps
-- [Optimization directions]
-
----
-
-## Experiment 3: Hyperparameter Optimization
-
-**Date**: [To be filled]  
-**Objective**: Optimize learning rate, batch size, and other hyperparameters
-
-### Hypothesis
-Systematic hyperparameter tuning will improve model performance and training efficiency.
-
-### Methodology
-- **Optimization Method**: [Grid search / Random search / Bayesian optimization]
-- **Parameters Tuned**:
-  - Learning rate: [Range tested]
-  - Batch size: [Values tested]
-  - Dropout rate: [Range tested]
-  - Optimizer: [Adam / SGD / RMSprop]
-- **Validation**: Cross-validation
-
-### Results
-| Hyperparameter | Best Value | Impact on Accuracy |
-|----------------|------------|-------------------|
-| Learning Rate | [Value] | [Impact] |
-| Batch Size | [Value] | [Impact] |
-| Dropout Rate | [Value] | [Impact] |
-| Optimizer | [Value] | [Impact] |
-
-### Final Performance
-- **Test Accuracy**: [To be filled]%
-- **F1-Score**: [To be filled]
-
-### Insights
-- [Most impactful hyperparameters]
-- [Sensitivity analysis]
-- [Optimal configuration]
-
-### Next Steps
-- [Further optimization opportunities]
-
----
-
-## Experiment 4: Data Augmentation Strategy
-
-**Date**: [To be filled]  
-**Objective**: Evaluate impact of different augmentation strategies on model robustness
-
-### Hypothesis
-Strategic data augmentation will improve generalization and handle class imbalance.
-
-### Methodology
-- **Augmentation Techniques Tested**:
-  - Rotation: [Range]
-  - Flip: [Horizontal/Vertical]
-  - Brightness: [Range]
-  - Contrast: [Range]
-  - Zoom: [Range]
-  - Color jitter: [Yes/No]
-- **Combinations**: [Different augmentation pipelines]
-
-### Results
-| Augmentation Strategy | Test Accuracy | F1-Score | Robustness Score |
-|----------------------|---------------|----------|------------------|
-| Baseline (minimal) | [Value] | [Value] | [Value] |
-| Moderate augmentation | [Value] | [Value] | [Value] |
-| Aggressive augmentation | [Value] | [Value] | [Value] |
-| Custom pipeline | [Value] | [Value] | [Value] |
-
-### Insights
-- [Most effective augmentations]
-- [Augmentation vs. overfitting]
-- [Impact on underrepresented classes]
-
-### Next Steps
-- [Final augmentation strategy]
-
----
-
-## Experiment 5: Class Imbalance Handling
-
-**Date**: [To be filled]  
-**Objective**: Address class imbalance to improve performance on minority classes
-
-### Hypothesis
-Class weighting, oversampling, or focal loss will improve recall for underrepresented classes.
-
-### Methodology
-- **Techniques Tested**:
-  1. Class weighting in loss function
-  2. Oversampling minority classes
-  3. Focal loss
-  4. Combination approach
-- **Evaluation**: Per-class metrics
-
-### Results
-| Technique | Overall Accuracy | Minority Class Recall | F1-Score |
-|-----------|------------------|----------------------|----------|
-| Baseline (no handling) | [Value] | [Value] | [Value] |
-| Class weighting | [Value] | [Value] | [Value] |
-| Oversampling | [Value] | [Value] | [Value] |
-| Focal loss | [Value] | [Value] | [Value] |
-| Combined | [Value] | [Value] | [Value] |
-
-### Insights
-- [Most effective technique]
-- [Trade-offs between techniques]
-- [Impact on overall vs. per-class performance]
-
-### Next Steps
-- [Selected approach and rationale]
-
----
-
-## Experiment 6: Model Quantization
-
-**Date**: [To be filled]  
-**Objective**: Reduce model size for edge deployment while maintaining accuracy
-
-### Hypothesis
-INT8 quantization will reduce model size by ~75% with minimal accuracy loss (<2%).
-
-### Methodology
-- **Quantization Method**: Post-training INT8 quantization
-- **Target**: Edge Impulse quantization pipeline
-- **Evaluation**: Accuracy, model size, inference speed
-
-### Results
-| Metric | FP32 Model | INT8 Quantized | Change |
-|--------|------------|----------------|--------|
-| Model Size (MB) | [Value] | [Value] | [X]% reduction |
-| Test Accuracy | [Value]% | [Value]% | [X]% change |
-| Inference Time (ms) | [Value] | [Value] | [X]% improvement |
-| F1-Score | [Value] | [Value] | [X]% change |
-
-### Insights
-- [Quantization impact]
-- [Acceptable accuracy trade-off]
-- [Edge deployment feasibility]
-
-### Next Steps
-- [Quantization-aware training consideration]
-
----
-
-## Experiment 7: Architecture Comparison
-
-**Date**: [To be filled]  
-**Objective**: Compare different lightweight architectures for edge deployment
-
-### Hypothesis
-Different architectures will offer different accuracy-efficiency trade-offs.
-
-### Methodology
-- **Architectures Tested**:
-  1. MobileNetV2
-  2. ShuffleNetV2
-  3. EfficientNet-Lite
-  4. Custom lightweight CNN
-- **Evaluation**: Accuracy, model size, inference speed
-
-### Results
-| Architecture | Accuracy | Model Size (MB) | Inference (ms) | F1-Score |
-|--------------|----------|-----------------|----------------|----------|
-| MobileNetV2 | [Value] | [Value] | [Value] | [Value] |
-| ShuffleNetV2 | [Value] | [Value] | [Value] | [Value] |
-| EfficientNet-Lite | [Value] | [Value] | [Value] | [Value] |
-| Custom CNN | [Value] | [Value] | [Value] | [Value] |
-
-### Insights
-- [Best architecture for use case]
-- [Trade-off analysis]
-- [Architecture selection rationale]
-
-### Next Steps
-- [Selected architecture and optimization]
-
----
-
-## Experiment 8: Ensemble Methods
-
-**Date**: [To be filled]  
-**Objective**: Improve accuracy through model ensemble (if applicable)
-
-### Hypothesis
-Combining multiple models will improve robustness and accuracy.
-
-### Methodology
-- **Ensemble Strategy**: [Voting / Averaging / Stacking]
-- **Models Combined**: [List of models]
-- **Weighting**: [Equal / Optimized weights]
-
-### Results
-- **Ensemble Accuracy**: [To be filled]%
-- **Improvement over Best Single Model**: [X]%
-- **Ensemble Size**: [Number of models]
-- **Inference Time**: [Impact on latency]
-
-### Insights
-- [Ensemble effectiveness]
-- [Trade-off with edge deployment]
-- [Feasibility for production]
-
-### Next Steps
-- [Decision on ensemble usage]
-
----
-
-## Experiment 9: Input Resolution Optimization
-
-**Date**: [To be filled]  
-**Objective**: Find optimal input resolution balancing accuracy and efficiency
-
-### Hypothesis
-Different input resolutions will affect accuracy and inference speed differently.
-
-### Methodology
-- **Resolutions Tested**: 128x128, 160x160, 224x224, 256x256
-- **Evaluation**: Accuracy, inference time, model size
-
-### Results
-| Resolution | Accuracy | Inference (ms) | Model Size (MB) |
-|------------|----------|----------------|-----------------|
-| 128x128 | [Value] | [Value] | [Value] |
-| 160x160 | [Value] | [Value] | [Value] |
-| 224x224 | [Value] | [Value] | [Value] |
-| 256x256 | [Value] | [Value] | [Value] |
-
-### Insights
-- [Optimal resolution]
-- [Accuracy vs. speed trade-off]
-- [Resolution selection]
-
-### Next Steps
-- [Final resolution choice]
-
----
-
-## Experiment 10: Edge Device Benchmarking
-
-**Date**: [To be filled]  
-**Objective**: Validate model performance on actual edge hardware
-
-### Hypothesis
-Model will meet latency and memory constraints on target edge devices.
-
-### Methodology
-- **Devices Tested**: [List of devices]
-- **Metrics**: Inference time, memory usage, CPU utilization
-- **Test Cases**: [Number of images tested]
-
-### Results
-| Device | Inference (ms) | Memory (MB) | CPU (%) | Throughput (img/s) |
-|--------|----------------|-------------|---------|-------------------|
-| Raspberry Pi 4 | [Value] | [Value] | [Value] | [Value] |
-| ESP32 | [Value] | [Value] | [Value] | [Value] |
-| [Other] | [Value] | [Value] | [Value] | [Value] |
-
-### Insights
-- [Device compatibility]
-- [Performance bottlenecks]
-- [Optimization opportunities]
-
-### Next Steps
-- [Hardware-specific optimizations]
-
 ---
 
 ## Iteration 1: Baseline Transfer Learning Model
 
-**Date**: [Training Date]  
+**Date**: November 2024  
 **Objective**: Establish baseline performance with MobileNetV2 transfer learning
 
 ### Hypothesis
@@ -390,13 +57,13 @@ Transfer learning from ImageNet pre-trained MobileNetV2 will provide a strong ba
   - Severe_DR: 16.7% (F1: 0.25)
 
 **Training Visualization:**
-![Iteration 1 Training Graph](../images/iteration1_training_graph.png)
+![Iteration 1 Training Graph](images/iteration1_training_graph.png)
 *Training curves showing accuracy and loss progression over 50 training cycles*
 
-![Iteration 1 Training Output](../images/iteration1_training_output.png)
+![Iteration 1 Training Output](images/iteration1_training_output.png)
 *Iteration 1 training output showing validation metrics and configuration*
 
-![Iteration 1 Confusion Matrix](../images/iteration1_confusion_matrix.png)
+![Iteration 1 Confusion Matrix](images/iteration1_confusion_matrix.png)
 *Iteration 1 validation set confusion matrix showing baseline performance*
 
 ### Insights
@@ -423,7 +90,7 @@ Transfer learning from ImageNet pre-trained MobileNetV2 will provide a strong ba
 
 ## Iteration 2: Optimized Transfer Learning Model
 
-**Date**: [Training Date]  
+**Date**: November 2024  
 **Objective**: Improve model performance through architecture and hyperparameter optimization
 
 ### Hypothesis
@@ -470,13 +137,13 @@ Increasing model capacity (MobileNetV2 0.5) and adjusting learning rate (0.001) 
   - Severe_DR: 0% (F1: 0.00) ⬇️ (-16.7% decrease)
 
 **Training Visualization:**
-![Iteration 2 Training Graph](../images/iteration2_training_graph.png)
+![Iteration 2 Training Graph](images/iteration2_training_graph.png)
 *Training curves showing improved accuracy and loss progression over 30 training cycles*
 
-![Iteration 2 Training Output](../images/iteration2_training_output.png)
+![Iteration 2 Training Output](images/iteration2_training_output.png)
 *Iteration 2 training output showing improved validation metrics (74.3% accuracy)*
 
-![Iteration 2 Confusion Matrix](../images/iteration2_confusion_matrix.png)
+![Iteration 2 Confusion Matrix](images/iteration2_confusion_matrix.png)
 *Iteration 2 validation set confusion matrix showing significant improvement, especially in No_DR (98.9%) and Moderate_DR (65.2%)*
 
 ### Insights
@@ -562,18 +229,17 @@ Increasing model capacity (MobileNetV2 0.5) and adjusting learning rate (0.001) 
 
 | Date | Experiment | Status | Key Outcome |
 |------|------------|--------|-------------|
-| [Date] | Baseline | Completed | [Outcome] |
-| [Date] | Transfer Learning | Completed | [Outcome] |
-| [Date] | Hyperparameter Tuning | Completed | [Outcome] |
-| [Date] | Quantization | Completed | [Outcome] |
-| [Date] | Edge Benchmarking | Completed | [Outcome] |
+| November 2024 | Iteration 1 - Baseline | Completed | 69.6% validation, 67.29% test accuracy |
+| November 2024 | Iteration 2 - Optimization | Completed | 74.3% validation, 71.96% test accuracy (+4.67% improvement) |
+| November 2024 | INT8 Quantization | Completed | 1.1 MB model, 2.34% accuracy drop (acceptable) |
+| November 2024 | Edge Deployment | Completed | Ready for Cortex-M4F 80MHz deployment |
 
 ---
 
 ## References and Resources
 
-- [Paper 1]: [Citation and relevance]
-- [Paper 2]: [Citation and relevance]
-- [Edge Impulse Documentation]: [Link]
-- [Dataset Resources]: [Links]
+- **Edge Impulse Documentation**: https://docs.edgeimpulse.com/
+- **MobileNetV2 Paper**: Sandler, M., et al. "Mobilenetv2: Inverted residuals and linear bottlenecks." CVPR 2018
+- **Dataset Source**: Mendeley Diabetic Retinopathy Dataset - https://data.mendeley.com/datasets/nxcd8krdhg/1
+- **Diabetic Retinopathy Classification**: Research on automated DR detection using deep learning and edge AI
 

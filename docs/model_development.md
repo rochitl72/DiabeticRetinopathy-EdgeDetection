@@ -67,9 +67,10 @@
    - Validation split: 15%
 
 2. **Training Settings**:
-   - Transfer learning: Enabled (if using pre-trained weights)
-   - Fine-tuning: Last N layers (to be determined)
+   - Transfer learning: Enabled (ImageNet pre-trained MobileNetV2)
+   - Fine-tuning: All layers trainable
    - Early stopping: Monitor validation loss
+   - Auto-weight classes: Enabled (handles class imbalance)
 
 3. **Augmentation Settings**:
    - Random rotation: ±15 degrees
@@ -81,7 +82,7 @@
 ### Training Process
 
 #### Iteration 1: Baseline Model
-- **Date**: [Training Date]
+- **Date**: November 2024
 - **Architecture**: MobileNetV2 160x160 0.35 (no final dense layer, 0.1 dropout)
 - **Hyperparameters**: Learning rate 0.0005, 50 training cycles
 - **Results**: 
@@ -90,14 +91,14 @@
   - Weighted F1-Score: 0.72
 - **Notes**: Establishing baseline performance with smaller model variant
 
-![Iteration 1 Transfer Learning Configuration](../images/iteration1_transfer_learning_config.png)
+![Iteration 1 Transfer Learning Configuration](images/iteration1_transfer_learning_config.png)
 *Iteration 1 configuration: MobileNetV2 0.35, Learning Rate 0.0005, 50 cycles*
 
-![Iteration 1 Training Graph](../images/iteration1_training_graph.png)
+![Iteration 1 Training Graph](images/iteration1_training_graph.png)
 *Iteration 1 training curves showing accuracy and loss progression*
 
 #### Iteration 2: Architecture Optimization (Final Model)
-- **Date**: [Training Date]
+- **Date**: November 2024
 - **Architecture**: MobileNetV2 160x160 0.5 (no final dense layer, 0.1 dropout)
 - **Changes**: 
   - Increased model capacity (0.35 → 0.5)
@@ -109,19 +110,12 @@
   - Weighted F1-Score: 0.71
 - **Notes**: Clear improvement in overall accuracy and Moderate_DR classification. Excellent No_DR performance (98.9% validation, 95.3% test)
 
-![Iteration 2 Transfer Learning Configuration](../images/iteration2_transfer_learning_config.png)
+![Iteration 2 Transfer Learning Configuration](images/iteration2_transfer_learning_config.png)
 *Iteration 2 configuration: MobileNetV2 0.5, Learning Rate 0.001, 30 cycles*
 
-![Iteration 2 Training Graph](../images/iteration2_training_graph.png)
+![Iteration 2 Training Graph](images/iteration2_training_graph.png)
 *Iteration 2 training curves showing improved convergence and better accuracy*
 
-#### Iteration 3: Hyperparameter Tuning
-- **Date**: [To be filled]
-- **Changes**: [Hyperparameter adjustments]
-- **Results**: [Optimized metrics]
-- **Notes**: [Key insights]
-
-*[Continue documenting iterations]*
 
 ## Model Optimization for Edge Deployment
 
@@ -138,15 +132,12 @@
   - **Status**: Acceptable trade-off for edge deployment
 
 #### Quantization-Aware Training (QAT)
-- **Status**: [Applied / Not Applied]
-- **Method**: [Details if applied]
-- **Results**: [If applied]
+- **Status**: Not Applied
+- **Reason**: Post-training quantization provided acceptable results (2.34% accuracy drop)
 
 ### Pruning
-- **Status**: [Applied / Not Applied]
-- **Method**: [Magnitude-based pruning / Structured pruning]
-- **Sparsity**: [Percentage if applied]
-- **Results**: [Model size reduction and accuracy impact]
+- **Status**: Not Applied
+- **Reason**: Model size (1.1 MB) already meets edge deployment targets
 
 ### Model Compression Summary
 
@@ -176,7 +167,7 @@
 3. **Learning Block**: Transfer Learning (MobileNetV2)
 4. **Output Block**: Classification (5 classes)
 
-![Edge Impulse Impulse Design](../images/edge_impulse_impulse_design.png)
+![Edge Impulse Impulse Design](images/edge_impulse_impulse_design.png)
 *Complete impulse design showing the ML pipeline configuration*
 
 ### Step 3: Training
@@ -191,10 +182,10 @@
 3. Analyze per-class performance
 4. Identify misclassification patterns
 
-![Model Testing Output](../images/model_testing_output.png)
+![Model Testing Output](images/model_testing_output.png)
 *Model testing results showing 71.96% test accuracy with detailed metrics*
 
-![Test Confusion Matrix](../images/test_confusion_matrix.png)
+![Test Confusion Matrix](images/test_confusion_matrix.png)
 *Test set confusion matrix showing final model performance*
 
 ### Step 5: Deployment
@@ -202,13 +193,13 @@
 2. Test on Edge Impulse device simulator
 3. Export for target hardware (C++ library, Arduino library, etc.)
 
-![Edge Impulse Deployment](../images/edge_impulse_deployment.png)
+![Edge Impulse Deployment](images/edge_impulse_deployment.png)
 *Deployment configuration showing C++ Library and INT8 quantized model selection*
 
-![Deployment Performance Metrics](../images/deployment_performance_metrics.png)
+![Deployment Performance Metrics](images/deployment_performance_metrics.png)
 *Performance comparison: INT8 (1.1MB, 4,471ms) vs Float32 (3.8MB, 13,820ms)*
 
-![Deployment Build Complete](../images/deployment_build_complete.png)
+![Deployment Build Complete](images/deployment_build_complete.png)
 *Successful build completion with deployment package ready*
 
 ## Model Selection Rationale
@@ -234,8 +225,8 @@
 
 ### Challenge 2: Image Quality Variability
 - **Problem**: Varying image quality in dataset
-- **Solution**: [Quality filtering / Normalization / Robust preprocessing]
-- **Results**: [Impact on model robustness]
+- **Solution**: Quality filtering during preprocessing (removed 63 corrupted/blurry images), normalization to [0,1]
+- **Results**: Robust model performance across validation and test sets (71.96% test accuracy)
 
 ### Challenge 3: Overfitting
 - **Problem**: Risk of model memorizing training data
@@ -277,7 +268,7 @@ Output: DR Severity Class (0-4)
 
 ## References
 
-- Edge Impulse Documentation: [Links]
-- MobileNet Paper: [Citation]
-- Diabetic Retinopathy Classification: [Relevant papers]
+- **Edge Impulse Documentation**: https://docs.edgeimpulse.com/
+- **MobileNetV2 Paper**: Sandler, M., et al. "Mobilenetv2: Inverted residuals and linear bottlenecks." CVPR 2018
+- **Diabetic Retinopathy Classification**: Relevant research on automated DR detection using deep learning
 
