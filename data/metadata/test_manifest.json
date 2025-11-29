@@ -1,0 +1,2702 @@
+[
+  {
+    "path": "data/processed/test/Moderate_DR/064af6592ba6.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/03747397839f.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/b5204c0decc7.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/3cd801ffdbf0.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/6155cf375354.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Severe_DR/772af553b8b7.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/b549af91bd30.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/606daaf0bfc7.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/5633ced07d8e.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/e9faf0296643.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/ff8a0b45c789.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/3cdef7c591cc.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/0924cec998fa.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/8448af27ba07.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/81bc03e2ff2b.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Severe_DR/910bfd38e2f5.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/ff344e5c9341.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/9858cc2ae073.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/dea7538bb91a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/a6356a3c5d11.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/b64e1eef3d63.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/cd01672507c9.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/fcc55ae641ae.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/ae1344610ebe.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/0f364b7d4384.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/cd1c98ec48b1.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/f850cb51fdba.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/a3132c8828e4.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/2c827005b8f8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/69c4cbb630de.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/189cbbc9e5e3.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/8c7c26c52a6c.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/835b9f6e12ba.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/c73c5f6ef664.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/55fd453001cc.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/fe674c2f73f5.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Mild_DR/c027e5482e8c.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Mild_DR/756b0d6488bb.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/ec363f48867b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/fca931da5c5e.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Severe_DR/237c078d00fc.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/8d9516ea3587.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/c64c0966b4cf.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/5eb8fb1aad41.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/e529c5757d64.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/3fd7df6099e3.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/ebf4b22240f4.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/16060f05d047.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/7102f29e052e.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/462937ece243.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/82910bba4753.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/11242a67122d.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/2b5bb6d33959.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/4818672273af.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/e7578d8dba72.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/4b1001050f1d.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/875d2ffcbf47.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/ac2c814949f9.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/22d843b2bbd1.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/d85588ff2ebd.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Severe_DR/4c60b10a3a6a.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/Severe_DR/269b44e628eb.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/014508ccb9cb.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/46cdc8b685bd.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/ba25f947f4ec.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/3232b34cbe99.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/c62cef02efa2.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/b7278b4f2448.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/7d37a2939f12.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/00a8624548a9.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/30941b65348b.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/0a85a1e8f9e9.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/c1437a7a52c9.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/75238d945315.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/afc345cc9145.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/d8da9de62743.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/0851d6a69589.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/ca7f5caddf96.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/3fd45879afe6.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/b9127e38d9b9.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/37de05ef12a5.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/31b5d6fb0256.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/041f09eec1e8.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/39fd8ef3a45c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/1b398c0494d1.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/42a67337fa8e.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/92d9e9f08709.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/e9ce5bf645ab.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/70ed3ec68b94.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/cd45bfa07d41.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/bf7047dc683c.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/8f2996b8d855.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/1d3e9b939732.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/dccdf750c962.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/da9fe02dead3.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/ca6842bfcbc9.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/4528fbbd43a3.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/1f4bf8e28b41.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/75a071608ea6.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/4d7d6928534a.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/c58971bcebb2.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/a07d571bf7ba.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/3a1d3ce00f0c.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Severe_DR/3435fd8675a2.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/2608e1dac5b1.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/f7116e7b2f4e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/8273fdb4405e.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/fa0c87bd75ce.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/0a1076183736.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/04efb1a284cc.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/d3d578fe433f.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/187f6ccda87a.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/7350c50667c5.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/c85b79d70079.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/026dcd9af143.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/7f2123bc89a3.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/89fc080f7e83.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/7d261f986bef.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Severe_DR/9a94e0316ee3.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/7e70344b0c25.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/2f143453bb71.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/5f70ad48a525.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/2f4e81787d9b.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/6e018411ba4a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/87b671c6d4c5.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Severe_DR/069f43616fab.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/4aa3d771c5e4.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/bb08949dd70a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/f35d80bb1a22.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/6653ad026901.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/aef9016557ca.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/4a96c28f3f07.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/dfea19863428.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/10fca1abf338.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/891329021e12.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/82bb8a01935f.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/60e269e3e188.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Severe_DR/1b495ac025b7.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/869bbd3170cc.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/a528be013a04.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/9b57e43b44e7.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/7cc4b7aabe04.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/3a6e9730b298.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/012a242ac6ff.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/c98f623d08d1.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/7e5a76c4e103.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/8650d32f4a9e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/2c1d5be654dd.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/a1822dd8d05d.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/febfb20dc311.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/b7f0bc7d399e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/e9678824215d.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/f025f33b2c9b.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/86b3a7929bec.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/ad029ba7fa8b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/857230f64a2e.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Mild_DR/f0c13be90519.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Mild_DR/613bacb35c05.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/d2c2f02bb313.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/5056fa7d505f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/57760be09c03.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/691eeb59b4cb.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/64b9206afb3f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/237aa50edc34.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/357f02a779d7.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/98f7136d2e7a.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/ce8d2efd9d4f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/75c180e04f65.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/43f22d1be8dd.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/8b079e79035f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/5d74f98d62be.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/ab724603ee93.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/7179f85bfd6f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/61bbc11fe503.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/c406325360b1.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/0bf37ca3156a.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/1a1e974a7dbf.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/094858f005ab.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/650fbed3fdca.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/c25e02b39c01.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/5baed382f062.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/6377e23928f6.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/7bda86d95c5b.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/76df141d966b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/19113e5f45ec.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/12ce6a1a1f31.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Severe_DR/697538183db5.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/Mild_DR/8bbd7835e9aa.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/8aa3c4681542.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/1ffaa51a6245.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/edceb0657d77.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/7bf981d9c7fe.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Mild_DR/c0e15e8e2b46.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/a34fc5376669.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/1df3e03a8f5f.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Mild_DR/4cae247d9909.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Mild_DR/1c0cf251b426.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/cbe633765ea7.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/203275daf46d.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/d6dbb0820ea5.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/aafb0c944f14.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/15cc2aef772a.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/9fa02dfb5553.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/b95d4dd8e5e2.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/2d552318eb07.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/1844a039b4ea.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/67f5d89da548.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/ab50123abadb.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/aeed1f251ceb.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/9de9421f17e3.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Severe_DR/3218a6d8eb2c.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/1b8ad0afe9fb.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/7635921c5efb.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/89ed6a0dd53f.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/4a7dc013e802.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/ed3a0fc5b546.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/2a3378bcfbcc.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/1002b5151b8e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/e23add229074.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/44f4ae58990e.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/fce93caa4758.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/f85fd4fac887.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/45369821d6a3.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/21d18b022429.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/8acffaf1f4b9.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/4c60f6fcea75.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/1cc58b15f466.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/91e2c2890c9f.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/478fc46eaa49.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/44e0d56e9d42.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/35ac70c0d08f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/1f543a86c4d4.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/6e861bc3bd7b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/b200c23b299b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/ec6f1797a25a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/9f8112c710be.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Severe_DR/d868acdccb5b.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/1f9ccda4ddf2.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/9782c0489eca.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Severe_DR/5b3e7197ac1c.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/7aabd768abff.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/07f5d7baf907.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/09237bf783a4.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/1da4a17c18c9.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/9be0683649ff.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/093cf723fede.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/51d574513bcb.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/66366a90d1ef.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/a4012932e18d.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/c365c598ad4e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/bfdee9be1f1d.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/e6a5e4718873.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/f7edc074f06b.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/17d7d6b092f4.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/beb00fa6e7c9.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/b576c5269ad1.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Mild_DR/c7b622ec8104.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/8c4ceddeb1c6.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/34a7dbd3f05c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/aa0afc41ed19.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/ae2c3f6312ef.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/a76132e79688.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Severe_DR/b960142a8de7.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/2cfe8703f265.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/9d75de31f1b8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/15c24478ac72.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/f4874247ede6.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/789c60cba801.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/07a0be6b347f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/f18abfa690ab.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/4c129470cec4.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/7f2cce721e19.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/34acae864963.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/3de8ad4151e1.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/fca1a8738b8a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/ffcf7b45f213.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/d78b7401096f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Severe_DR/4fef9ed8a4c5.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/5bf6f2958e53.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/7af4d8704032.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/c280730cc211.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/a2d349f567a6.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/63a03880939c.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/e6f0ce5bf282.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/0ac436400db4.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/37c523296d42.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/0415fc68b176.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/b1c6f0997e27.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/cae51154e1ce.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/d8cdb7d7283a.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/b55d2ddb3e75.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Severe_DR/6253f23229b1.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/30db694bee42.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/cd29c88c9e36.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/13d71389563f.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/b8dab47a260e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/436e7a7af761.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/9b4fc15df3c8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/9274e75dc4d5.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Severe_DR/4f0866b90c27.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/3f6bccf21ce8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/b65ff67743b2.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/9d1feed37610.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/d7bc62d60e8c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/1b8701231c8f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/6e1db8711879.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Severe_DR/3fa4f4d77177.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/1db18bdd43aa.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/ea1d045f9fea.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/3c28fd846b43.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/3286073a976e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/fe37f4492920.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/2b4c7b5f1f1e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/13c191b59ed0.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/26cd40b57ad1.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/423abbaa5fad.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/df6d13d04da1.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/677f087cd697.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/4c5ab774a381.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/080ee76c958c.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/2b21d293fdf2.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/12ae44be0d38.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/4e8585a96739.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/4403538fb50f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/83fda7c0500b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/49419f8d5cb4.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/05a5183c92d0.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/a8b3c0961d42.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/702de9dcde32.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/e160a3b19911.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/ed246ae1ed08.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/e594c19e2e1d.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/54038e56131d.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/c3acf47700ea.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/c6f5b5b5be41.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/29580bed2f7d.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/a505981d1cab.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/09935d72892b.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/1bea04b2bb2d.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/e2c39ed0c941.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/675de69373f8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/ed2c52c14493.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/812d5adafaf2.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Severe_DR/72595230840c.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/08037e4490e5.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/58f07741ee3b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/f3cd489acbee.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/f26b02ead915.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/bb85097857fa.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/2974c6ad1d58.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/d67374d3fa2a.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/80b5a9519aec.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/2a8a9e957a6c.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Severe_DR/1c9521878baf.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/1594ca6c30d3.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/405085b53d7b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/20c883d3bd38.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Severe_DR/dd3dad6ca78f.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/9859e2a6cc24.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/f06e7a9df795.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/535682537302.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/3206171db5be.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/5ea9e447bb62.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/942f544c4e15.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/cc964bf04dbc.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/e150935f66a6.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/0180bfa26c0b.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/3b0190bbe615.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/7ccb267fd394.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/8e4a354e3da2.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/f58f0b2fd718.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/4489d421e5aa.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/0c43c79e8cfb.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/9033f1493da1.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/2c77bf969079.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/48c49f662f7d.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/2f2e1949ad56.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/be68322c7223.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/e25ccfe38e44.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Mild_DR/4661006f3ba6.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/86722fcd802c.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Severe_DR/7a6e384a0846.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/d7e5fe5245e0.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/958c1fa044ba.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/1dfbede13143.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/196e6a186452.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/cf8f1bc7a215.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/272d9c043c81.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/f03d3c4ce7fb.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/d1a24527a15d.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/d1fb4efb117c.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/855f0a5442b6.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/5548a7961a3e.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/e0313be77035.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/4ccfa0b4e96c.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/e12f9f19d1be.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/86e7f98f73f1.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/48c72dec46e5.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/7eee3d1f1268.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/0db1d8dcf219.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/8e20b8fac7c3.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/ef99c499d665.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/b99794a0beed.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/4dd7b322f342.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/a01024054596.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/f4d3777f2710.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/79cbae28d8b2.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/cb0cc98d7e35.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/2b07790a2422.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/39923b29988a.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/a95858e052d6.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Severe_DR/1ab3f1c71a5f.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/3c53198519f7.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/eda29a9d78f3.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/1c47815f4a6b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/460893cd86e3.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/d1ca85af57c9.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/90960ddf4d14.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/6d10709053ae.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/3402124408ea.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/aa94cc4bfd84.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/b376def52ccc.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/54f57cf26126.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/8e67f2d7e0ee.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/b927a9238434.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/9c14ce27cbfc.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/26463a5fb949.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/975252e325e3.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/ecad6845f630.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/b77b8a1f09f1.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/cfb17a7cc8d4.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/789f0ec1eab8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/5a091e8cd95c.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/571bbdbf585e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Severe_DR/e4210e7fe587.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/Mild_DR/80d24897669f.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Mild_DR/595446774178.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/65cf00be6fb4.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/af5a0bc4e1fa.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/97c6cb55866d.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/165634a6167e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/a150ff5dfe07.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/65c958379680.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/52886bed8a07.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/ae8424cdb029.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Severe_DR/916ec976ff30.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/Severe_DR/aae8f9f3ef8c.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/9287e57326d0.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/f71333204618.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/daeaa5d8cf70.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/1db6bb46c102.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/0a9ec1e99ce4.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/e3e490babc0c.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/4ad8d3ec8789.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/18b06f56ab27.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/f0f89314e860.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/62b826899151.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/071435a218ec.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/24de56d433cd.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/8e63fc4ab532.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/3a61e690f4bb.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Severe_DR/c5ba9e455d5e.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/Severe_DR/07a0e34c8d20.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/a8c9fcdbc0be.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/77e7c7a160c8.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/03ff7d159f10.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/2376e5415458.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/91e82fe4e434.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/5cf9127f251a.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/921433215353.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/c52bb7343387.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/25d069089c5e.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/e1e490773462.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/42af7282349b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/a04fb36db784.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/c26f98f58350.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/252305189b3a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/be197b663520.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/b1b3e7d0a5f3.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/a2163f0c2af5.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/7ad0c4975890.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/3ee4841936ef.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/188a9323be03.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Mild_DR/a75bab2463d4.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/67ed8cc78b97.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Severe_DR/e8d1c6c07cf2.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/test/No_DR/0a4e1a29ffff.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/39f8935185e6.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/1782142e17d9.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/1e9224ccca95.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/09662e462531.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/c68dfa021d62.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/0232dfea7547.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/a247961a5cd9.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/1ade1e949383.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/d2901144070c.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/d2afca74cbc3.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/82deb07a6618.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/a804cef3e51f.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/07596907347b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/6852f4531591.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/4dc2211a1c31.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/No_DR/dfc7ec7db0e0.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/99132193eaa0.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/fa9f1bc03f21.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/f002ce614c59.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/55f7f018c61c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/5b2648ad455e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/a07efb1ecfc0.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/c4e8b1ec8893.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/5bf3357a2823.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/47536db39f00.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/b06dabab4f09.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/ea6a53e54d0f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/c7e827fc7f41.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/f8fc411092c7.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/d364423ec6f9.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/441848e0f308.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/11d8e5eaee5b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/4e43d05cc2ef.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/404ede327e98.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/3730c322d35b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/c5b58cc992af.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/1d674e2e32e0.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/ba4d2c4b3039.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Proliferative_DR/cbd0870aa933.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/d25b8a8ad3c4.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/cd01f4f83336.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/8dfa629ca74e.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/df8365d6ac33.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/d667af5742f6.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/194814669fee.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/ceb32a193eff.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/ac0a48ccbf70.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Mild_DR/33ffddea8c6e.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/test/No_DR/c7c3d363bc86.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/232549883508.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/test/No_DR/06586082a24d.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/No_DR/da2bdf4236ac.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/test/Moderate_DR/eb1ad14dd281.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  }
+]

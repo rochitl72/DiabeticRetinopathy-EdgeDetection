@@ -1,0 +1,39 @@
+
+    ============================================================
+    Edge Impulse Studio Upload Instructions
+    ============================================================
+    
+    There are two main ways to upload data to Edge Impulse:
+    
+    1. WEB INTERFACE (Recommended for beginners):
+       a. Go to https://studio.edgeimpulse.com
+       b. Create a new project or open existing project
+       c. Navigate to "Data acquisition" tab
+       d. Click "Upload data" or "Add new data item"
+       e. Select images from data/processed/train/ (organized by class)
+       f. Assign correct labels during upload
+       g. Repeat for validation and test sets
+    
+    2. EDGE IMPULSE CLI (For automated uploads):
+       a. Install Edge Impulse CLI:
+          npm install -g edge-impulse-cli
+       b. Login:
+          edge-impulse login
+       c. Upload data:
+          edge-impulse uploader --category training \
+            --label <CLASS_NAME> \
+            <PATH_TO_IMAGES>
+       
+       Example:
+          edge-impulse uploader --category training \
+            --label No_DR \
+            data/processed/train/No_DR/
+    
+    IMPORTANT NOTES:
+    - Organize images by class in separate folders
+    - Use consistent naming: No_DR, Mild_DR, Moderate_DR, Severe_DR, Proliferative_DR
+    - Edge Impulse will automatically split data if needed
+    - Verify labels after upload
+    
+    ============================================================
+    

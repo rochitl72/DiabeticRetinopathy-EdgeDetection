@@ -1,0 +1,155 @@
+# Project Configuration for Diabetic Retinopathy Detection
+
+# Dataset Configuration
+dataset:
+  name: "EyePACS Diabetic Retinopathy"
+  source: "Kaggle"
+  license: "CC0 Public Domain"
+  input_dir: "data/raw"
+  processed_dir: "data/processed"
+  metadata_dir: "data/metadata"
+  
+  # Image preprocessing
+  target_size:
+    width: 224
+    height: 224
+    channels: 3
+  
+  # Data split ratios
+  split:
+    train: 0.70
+    validation: 0.15
+    test: 0.15
+    random_seed: 42
+  
+  # Class labels
+  classes:
+    0: "No_DR"
+    1: "Mild_DR"
+    2: "Moderate_DR"
+    3: "Severe_DR"
+    4: "Proliferative_DR"
+
+# Model Configuration
+model:
+  architecture: "MobileNetV2"  # Options: MobileNetV2, ShuffleNetV2, EfficientNet-Lite, Custom
+  input_shape: [224, 224, 3]
+  num_classes: 5
+  
+  # Training hyperparameters
+  training:
+    batch_size: 32
+    epochs: 50
+    learning_rate: 0.001
+    optimizer: "Adam"
+    loss_function: "categorical_crossentropy"
+    metrics: ["accuracy"]
+    
+    # Regularization
+    dropout_rate: 0.5
+    weight_decay: 0.0001
+    
+    # Early stopping
+    early_stopping:
+      enabled: true
+      monitor: "val_loss"
+      patience: 10
+      restore_best_weights: true
+    
+    # Learning rate schedule
+    lr_schedule:
+      enabled: true
+      factor: 0.5
+      patience: 5
+      min_lr: 0.00001
+
+# Data Augmentation
+augmentation:
+  enabled: true
+  rotation_range: 15
+  horizontal_flip: true
+  vertical_flip: true
+  brightness_range: [0.8, 1.2]
+  contrast_range: [0.8, 1.2]
+  zoom_range: 0.1
+
+# Edge Deployment Configuration
+edge_deployment:
+  target_devices:
+    - "Raspberry Pi 4"
+    - "ESP32"
+  
+  # Performance targets
+  targets:
+    model_size_mb: 2.0
+    inference_time_ms: 100
+    memory_usage_mb: 50
+    throughput_img_per_sec: 10
+  
+  # Optimization
+  quantization:
+    enabled: true
+    method: "INT8"  # Options: INT8, FP16
+    target_accuracy_drop: 0.02  # Max 2% accuracy drop
+  
+  pruning:
+    enabled: false
+    sparsity: 0.5
+
+# Edge Impulse Configuration
+edge_impulse:
+  project_name: "Diabetic Retinopathy Detection"
+  api_key: ""  # Set via environment variable or .env file
+  project_id: ""  # Will be set after project creation
+  
+  # Data upload
+  upload:
+    batch_size: 100
+    max_workers: 4
+
+# Validation Configuration
+validation:
+  cross_validation:
+    enabled: false
+    k_folds: 5
+  
+  metrics:
+    primary: ["accuracy", "f1_score"]
+    secondary: ["precision", "recall", "confusion_matrix"]
+  
+  # Class imbalance handling
+  class_weights:
+    enabled: true
+    method: "balanced"  # Options: balanced, custom, none
+  
+  # Threshold tuning
+  threshold_optimization:
+    enabled: false
+    metric: "f1_score"
+
+# Quality Assurance
+quality_checks:
+  image_quality:
+    min_brightness: 0.1
+    max_brightness: 0.9
+    min_contrast: 0.05
+  
+  data_validation:
+    check_duplicates: true
+    check_corrupted: true
+    verify_labels: true
+
+# Logging and Output
+logging:
+  level: "INFO"  # Options: DEBUG, INFO, WARNING, ERROR
+  log_dir: "logs"
+  save_training_plots: true
+  save_model_checkpoints: true
+
+# Paths
+paths:
+  models_dir: "models"
+  logs_dir: "logs"
+  results_dir: "results"
+  edge_impulse_models: "models/edge_impulse_models"
+

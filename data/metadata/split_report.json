@@ -1,0 +1,48 @@
+{
+  "summary": {
+    "total_images": 3599,
+    "num_splits": 3
+  },
+  "class_distribution": {
+    "0": 1744,
+    "2": 997,
+    "1": 370,
+    "4": 295,
+    "3": 193
+  },
+  "splits": {
+    "train": {
+      "count": 2519,
+      "percentage": 69.99166435120867,
+      "class_distribution": {
+        "0": 1221,
+        "2": 698,
+        "1": 259,
+        "4": 206,
+        "3": 135
+      }
+    },
+    "validation": {
+      "count": 540,
+      "percentage": 15.004167824395665,
+      "class_distribution": {
+        "0": 261,
+        "2": 149,
+        "1": 56,
+        "4": 45,
+        "3": 29
+      }
+    },
+    "test": {
+      "count": 540,
+      "percentage": 15.004167824395665,
+      "class_distribution": {
+        "0": 262,
+        "2": 150,
+        "1": 55,
+        "4": 44,
+        "3": 29
+      }
+    }
+  }
+}

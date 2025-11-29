@@ -1,0 +1,42 @@
+{
+  "total_images": 3599,
+  "target_size": [
+    224,
+    224
+  ],
+  "classes": {
+    "0": "No_DR",
+    "1": "Mild_DR",
+    "2": "Moderate_DR",
+    "3": "Severe_DR",
+    "4": "Proliferative_DR"
+  },
+  "splits": {
+    "train": 2519,
+    "validation": 540,
+    "test": 540
+  },
+  "class_distribution": {
+    "train": {
+      "0": 1221,
+      "2": 698,
+      "1": 259,
+      "4": 206,
+      "3": 135
+    },
+    "validation": {
+      "0": 261,
+      "2": 149,
+      "1": 56,
+      "4": 45,
+      "3": 29
+    },
+    "test": {
+      "0": 262,
+      "2": 150,
+      "1": 55,
+      "4": 44,
+      "3": 29
+    }
+  }
+}

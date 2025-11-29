@@ -1,0 +1,94 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Data files (large datasets)
+data/raw/
+data/processed/
+*.jpg
+*.jpeg
+*.png
+*.tiff
+*.tif
+*.bmp
+*.npy
+*.npz
+
+# Models
+models/*.h5
+models/*.pb
+models/*.tflite
+models/*.onnx
+models/edge_impulse_models/
+*.model
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Edge Impulse
+edge_impulse_*.json
+*.eim
+
+# Results and outputs
+results/
+outputs/
+*.csv
+!data/metadata/*.csv
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Internal/Development files (not needed for submission)
+SUBMISSION_CHECKLIST.md
+PROJECT_STATUS.md
+AUTOMATION_GUIDE.md
+EDGE_IMPULSE_NEXT_STEPS.md
+DATASET_DOWNLOAD_INSTRUCTIONS.md
+DATASET_SETUP.md
+QUICKSTART.md
+docs/images/README.md
+docs/images/SCREENSHOT_GUIDE.md
+

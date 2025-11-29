@@ -1,0 +1,2702 @@
+[
+  {
+    "path": "data/processed/validation/Proliferative_DR/fa59221cf464.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/2bd4d4fbed5c.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/5b804948e35f.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/461fa5292fda.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/c9d42d7534e0.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/d436c06f0490.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/360832d84ce0.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/348598d01e18.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/9a78c6a7b1c2.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/25a0a1e41afd.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/86d58f850a0c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/58ccba7eec9c.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/374535e0adb8.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/80c67efc8101.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/a77eb914b383.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/633fe9dbaf39.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/e893e86dde94.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/393fa5a023a5.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/9a326446c431.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/3b2b91590590.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/8ef2eb8c51c4.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/2463bb04ebc3.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/4dbce359d0e1.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/496155f71d0a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/c56e65f74187.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/3cd9713c0ecb.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/a85cda5f725d.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/db52626d450c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/878a3a097436.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/a62e995f167c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/cd941e5bc659.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/359bab5d784b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/870fbe6eaa68.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/060e00d1e2ab.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/2700754f71e9.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/bcd503c726ba.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/50840c36f0b4.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/1633f8291a80.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/a32886cb31ab.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/f64214bed40e.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/7116128c65ab.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/a19ecd0a706e.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/318eb706a134.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/8b26d3cd61e8.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/04a6fc58dabc.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/84b472c49cfa.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/7ba6b23c4b46.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/4cddfc22b0ad.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/5a5d3798c357.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/a6731dd737af.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/f994a3b07935.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/0ad7f631dedb.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/f6f3ea0d2693.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/82e5bc01f8a4.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/0dce95217626.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/9b0eb9f41da4.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/e76a9cbb2a8c.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/95e732e043a1.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/aebe87a423c8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/4384fa687afa.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/d18f6431ebce.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/3f47f83217b5.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/5f13e8a07344.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/No_DR/3c42512c81e0.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/ababe19ed448.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/8bf05909e1e1.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/1ae8c165fd53.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/8433a032b96c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/bb5083fae98f.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/No_DR/5d3c8c1f57da.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/7a12f49e29df.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/d1f7ea924a01.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/cbf0394039f8.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/9a9b21215c55.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/42cc993f23a9.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/No_DR/596f4fdb0004.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/e01b7bac822b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/8af50c9d0a86.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/aa31bc6b8f4d.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/3dfc50108072.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/db3cd58aa315.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/bd5013540a13.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/ab32db41c409.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/022f820027b8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/e17507a4a1f5.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/28503940d10b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/0024cdab0c1e.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/12ab2f6397f0.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/f30f203ef51e.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/da3a2275c850.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/c5ad60521f8c.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/3f0d3629d69e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/286e9981dd9b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/85cc6d636898.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/74211a2b6dcf.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/1e8a1fdee5b9.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/6cdd0f985270.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/4a693dd3921a.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/97d02a9b94f7.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/d994203deb64.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/cb602182cde3.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/bb11db08584a.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/39134907127a.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/8a81f62320d6.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/bff51afc76d4.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/03c85870824c.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/No_DR/1e036f2e7095.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/e16fc934069f.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/f58d37d48e42.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/f0c0f7b5e820.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/61bbe8db6f3a.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/6b30767595d8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/88e5051f65bd.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/af831c158744.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/9c5dd3612f0c.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/5fcff7280019.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/4d009cebabc9.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/69f43381317b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/71a39c660432.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/0083ee8054ee.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/e19936582c61.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/5b76117c4bcb.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/3601dac9bed7.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/1dbdc32c17db.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/d1b279cc02ae.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/ea588d1e5d96.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/1b4625877527.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/1f5496352859.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/c0f15fe3b4b7.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/bda8c973b09d.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/7c629b491d1a.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/4982378d72f9.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/b759cbef90c5.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/68987fb159ab.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/bb752b179751.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/5152bf091152.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/3079490a4b9c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/4faf4063db8c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/0151781fe50b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/04ac765f91a1.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/2682e6da9050.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/88e4399d207c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/8860c7b11530.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/a11c62cb3f86.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/c06024f05a16.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/04579e31e4be.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/f5a8c6426a71.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/d144144a2f3f.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/f4d3169b468a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/cad5b1a82e60.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/2665f72e2dd3.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/No_DR/b35cad8fe2d7.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/eabf421f94d0.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/d18aea8238a0.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/8c87bd748996.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/18323d8f2470.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/0b00f8a77510.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/6ccfdb031184.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/1f07dae3cadb.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/9878db94d9f3.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/4a3da369b227.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/1d46f1326394.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/9c6512166557.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/537e50fdf22e.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/No_DR/7a77c3eb468c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/8c29a76fa08c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/be7f791a7877.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/5671eb95512b.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/4a44cc840ebe.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/e7a372a1c3a4.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/453d553b0a94.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/91e8af9ceee9.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/17f6c7072f61.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/3732de8b416f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/5d9c841eb245.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/9e2058917304.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/6daef3e5ca22.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/66bae1ba227f.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/fc782722a50c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/cadde4030858.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/a7673ac44509.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/b0eeae01b8ab.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/a5bb85afc6e8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/9d74428188bb.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/246e4506824a.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/f69835dc7c50.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/78d53c82a23e.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/8010c931321f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/fba493e17448.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/64c6c6ee0d98.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/d39752cb6e57.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/eae901557a84.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/7a9f45fdf29b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/30cab14951ac.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/e6a58edc5b42.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/111898ab463d.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/8c0d05233238.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/f576e45d1da2.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/No_DR/b7a1bb106051.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/a07d9a5045cb.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/b07bc463b718.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/a12ca80bb8c7.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/dc0f6e5b489b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/fb767cea406c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/dc3c0d8ee20b.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/a8582e346df0.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/15e96e848b46.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/e9ff9352ccb3.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/e740af6ac6ea.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/3f5b4c2948e8.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/1a369baf9ee6.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/a44345b27804.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/5a93c0f783c4.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/eabc7c716255.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/bd9904495ccd.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/23fca0693e2a.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/f2094a20b275.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/adb56cecafaf.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/222d0ac042b4.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/7356dd08b0ae.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/207dd0487264.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/9519a590985d.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/a73c3d516c59.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/6889bc64ab09.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/71c22da3d6c6.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/3c78bfca247b.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/bacfb1029f6b.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/5c8482926a08.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/46d3316c4857.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/c102db7634d8.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/165c548185f8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/c3d12a23f451.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/c3cd0200df79.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/No_DR/f066db7a2efe.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/1968183f0e61.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/76516f828d88.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/3f44d749cd0b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/cd9e2190c73f.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/c5e238aa18be.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/1df0431bfa73.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/aaaadb174012.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/b9c7c5182075.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/9039cbfcbb2f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/482088e6be44.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/76e5b50f95a7.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/d801c0a66738.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/d881c04f01fe.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/ae20112e7a1e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/922586d86cd8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/519c6e8f78dc.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/b37aae3c8fe1.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/a19507501b40.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/262ad704319c.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/dd90c321d7bc.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/365f8c01d994.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/e5f73f2855c0.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/02da652c74b8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/21abd36095a1.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/61d9c88a3a4b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/3ffa14d60b24.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/5d024177e214.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/e2c3b037413b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/58a9e0d7f7af.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/ccd34029493d.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/b402daa0864c.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/1e8c31e29dd3.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/870f433e8f37.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/1b862fb6f65d.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/873fe0404d6e.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/ae58ccb5905e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/a6c9e96a10d7.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/d10ef306996b.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/6cffc6c6851a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/2408799a09b2.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/cc1eebed9276.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/807135cbc438.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/415d5c5e785f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/76b950c6ed5e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/6298468d7d75.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/992b9a07b25f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/3599029efeb3.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/83e529e95b0e.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/c373b73a80c8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/2bb3c492d6d3.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/500aad15b7c8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/4158c340fa49.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/2628305cbb29.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/0318598cfd16.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/ce754234d760.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/527bea76116c.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/362c4a96cebb.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/84e8c62165b5.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/cffc50047828.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/40527a5e95dd.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/58529a8638d0.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/09eeafa9656a.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/81d79d53ed7b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/0124dffecf29.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/f62b8a076833.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/cc671a73e1cb.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/d85a842d20bd.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/4b6cb0bcfd44.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/9c52b87d01f1.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/1a7e3356b39c.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/3f98be586fe3.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/5299a532f0e0.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/ee3fe7809e6a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/ecb4500285ed.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/1638404f385c.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/2f7fbdcc9a4b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/0dc8d25b3f69.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/No_DR/609be3ca5ddf.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/c546670d9684.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/1db0393cdbc1.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/6a244e855d0e.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/No_DR/b5a3ca5c0a80.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/692e946b1f85.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/9095d43fb132.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/54334705a34d.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/540e4973829e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/5b301a6d1ac7.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/f762c272c522.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/beeca5f14618.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/cf0575534cec.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/f633c474e8b8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/62ecdc90dd42.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/0b64a0a06f9a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/4189d4e631ec.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/898f0bc8acfa.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/ca0f1a17c8e5.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/4f60129e9a5b.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/fbcbc81cf9be.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/66bfec8d6bcd.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/144b01e7b993.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/96d48b073f18.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/a9e984b57556.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/887c26fc0e1f.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/83b61051737f.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/32ed318235b8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/283c3aeba594.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/d7a01fca9838.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/b92eacd1392a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/38c7153457e2.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/39aa3cd93c50.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/No_DR/e82232a3c28b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/a62ea0043aa7.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/d16e59a2b33a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/a7b7dc8788b9.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/b0d6417bad3e.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/e47770a2e5d1.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/36ec36c301c1.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/f0860c21533b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/3f8d5c940ba4.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/ca360bec5851.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/19b0e3c734f5.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/9bd008aab548.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/5efa24b03d5e.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/19722bff5a09.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/24f271c87e73.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/44855f666225.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/ef7a4ed8d5d1.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/d06ccd0cf4b8.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/35362d43e753.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/0da09e3ce8f1.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/63c7b0265775.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/ea68b58a6e8f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/3694e8c8e09a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/454a944eb557.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/ccea49708830.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/c597ef460944.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/8191ae701985.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/c80f79579fed.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/5f51192841f7.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/a02dfd67a925.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/7ddcfcea7369.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/77a9538b8362.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/086d41d17da8.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/bcc762618e7d.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/0ef4c61dc056.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/901a3552fe26.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/9f1efb799b7b.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/1608c82a263f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/2a47e5b21791.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/996f9bba4ef0.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/e32a359be36d.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/No_DR/9d62478042b6.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/2241b7e90782.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/ea4dcb055139.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/a45d77edf8d9.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/0e82bcacc475.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/b9fe7da14a32.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/26e231747848.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/a879c3569552.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/5bda2ed09e62.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/8db2ce991101.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/49a4765f8822.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/300305ce82d2.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/80e6e425f966.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/03fd50da928d.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/d7ac4a0c9760.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/a56230242a95.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/6bf2a81a5d91.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/d473f6fafba0.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/0d9a9896f801.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/67844c46bc61.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/8dc22e65c06f.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/415f2d2bd2a1.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/05339950962e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/999115d9386b.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/21037f5c7790.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/959bb2d01091.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/c6c2bad91f23.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/4958bfcc9f38.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/8aab201c0691.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/1c9c583c10bf.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/9c893e16c055.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/a0267206d51e.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/d844a7252f4e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/e29e54ff921e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/9904939ab83d.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/bc23f74e14dd.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/8a9bef2fbd4e.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/5cde55f745af.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/51030843fde2.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/fb6b8200b7f8.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/3fe282197c1c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/d02b79fc3200.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/eae70f527755.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/f1d719c97838.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/8be6629a6039.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/fecf4c5ae84b.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/d9bbdc33db83.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/d2fb715b0c41.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/521b5377a727.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/d1f1ea894da1.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/62e6f814c8f5.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/a8a6588c8eb7.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/fefded6bf135.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/bb45257258cc.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/dde43aa22ae6.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/190a309f2cc5.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/9568eb7e9c08.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/5b644a403e1f.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/803120c5d287.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/d866c26d76f0.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/b033ab4fb723.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/80feb1f7ca5e.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/ea5c42a78979.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/36677b70b1ef.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/598b8f5b3822.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/b49b2fac2514.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/f431f2e119d7.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/31616ff6b53b.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/b83a6eca125f.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/501c319f7a9f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/24b87f744598.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/No_DR/81371b0c01ad.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/907aaff827e5.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/9a3109657ac1.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/d516f77d4516.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/79ce83c07588.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/4ef7144e24ff.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/36a1e3c780a0.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/881ec6186e68.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/fed5bb685832.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/594f69b503ad.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/000c1434d8d7.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/b56340f472d2.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/b7bd4a6627b6.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/99c6a123ed6a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/cd314653a4d8.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/98f48850ebce.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/5b068765e846.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/1414128bead0.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/8693ab1fd2be.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/a5c9a8c726b2.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/cbc2e57447c2.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/87b1938994b5.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/ac17cc18a994.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/545df1bbcd61.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/d0079cc188e9.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/No_DR/80f6b30ece8c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/dbfd238b3468.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/2bb063318cf1.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/No_DR/8c84e96d9b01.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/7877be80901c.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/da9574d35b82.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/5ac7a414560e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/e0d229db881a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/1d14dd912671.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/4b422b48d0d4.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/ad1f7445b1a8.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/c261b1aaa828.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/7ea756985353.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/7b9d519cbd66.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/f7508f14dd7b.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/c23ff6dcf15e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/1409ab48175a.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/6987804eb464.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/aa5ce75edcf5.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/0ada12c0e78f.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/fb88d23fc5fe.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/188219f2d9c6.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/be8697eb2078.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/b17f0b81dab3.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/10f36b0239fb.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/4c3c1ed09771.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/38e0e28d35d3.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/bba38f2294a3.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/a9b3177f01c0.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/d74ccc796517.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/98e44127872f.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/8d8aca52c07b.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/5445255635f0.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/144a1a426137.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/9232dc06cfdc.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/cd54d022e37d.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/936299166bea.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/6f923b60934b.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/4abca30b676b.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/266fbefa58fb.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/0ae2dd2e09ea.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/92e3d608fd3c.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/904b03ad5594.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/7d626a7ffe76.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/97da093947e8.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/No_DR/96ea316ed0ab.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/No_DR/4ec7796df40e.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/1bf30c84bbad.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/674057ab250c.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/77a1f1398fdb.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/261c6bd63bff.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/65e6f1bd9875.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/04d029cfb612.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  },
+  {
+    "path": "data/processed/validation/No_DR/ec57cc20d776.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Severe_DR/ad2f0b9d059c.png",
+    "label": "Severe_DR",
+    "class_id": 3
+  },
+  {
+    "path": "data/processed/validation/Mild_DR/b8ebedd382de.png",
+    "label": "Mild_DR",
+    "class_id": 1
+  },
+  {
+    "path": "data/processed/validation/No_DR/a82a12ad3fb1.png",
+    "label": "No_DR",
+    "class_id": 0
+  },
+  {
+    "path": "data/processed/validation/Proliferative_DR/37c4dfe03aba.png",
+    "label": "Proliferative_DR",
+    "class_id": 4
+  },
+  {
+    "path": "data/processed/validation/Moderate_DR/f0800723bc63.png",
+    "label": "Moderate_DR",
+    "class_id": 2
+  }
+]
