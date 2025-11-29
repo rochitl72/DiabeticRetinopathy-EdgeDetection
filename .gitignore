@@ -29,6 +29,8 @@ data/processed/
 *.jpg
 *.jpeg
 *.png
+# Allow screenshots in docs/images/ (exception must come after general pattern)
+!docs/images/*.png
 *.tiff
 *.tif
 *.bmp
@@ -91,4 +93,9 @@ DATASET_SETUP.md
 QUICKSTART.md
 docs/images/README.md
 docs/images/SCREENSHOT_GUIDE.md
+
+# Unused automation scripts (workflow was manual in Edge Impulse Studio)
+scripts/automate_edge_impulse.py
+scripts/automate_training.sh
+scripts/edge_impulse_api_automation.py
 
