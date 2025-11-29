@@ -1,8 +1,37 @@
 # Diabetic Retinopathy Detection on Edge AI Devices
 
+## Team
+
+**A Team of undergrad students from India here to participate for the Edge AI contest**
+
+We are passionate undergraduate students from India working on innovative solutions for healthcare accessibility through Edge AI technology. This project represents our commitment to leveraging machine learning for social impact, particularly in making diabetic retinopathy screening accessible in resource-constrained environments.
+
 ## Project Overview
 
-This project focuses on developing a high-performance, efficient machine learning model for diabetic retinopathy (DR) detection using retinal fundus images. The model is built using Edge Impulse Studio and optimized for deployment on Edge AI devices, enabling accessible healthcare diagnostics in remote or resource-constrained environments.
+This project focuses on developing a high-performance, efficient machine learning model for diabetic retinopathy (DR) detection using retinal fundus images. The model is built using **Edge Impulse Studio** - a powerful, research-friendly platform that enabled us to rapidly prototype, iterate, and deploy our edge AI solution. The model is optimized for deployment on Edge AI devices, enabling accessible healthcare diagnostics in remote or resource-constrained environments.
+
+### Why Edge Impulse Studio?
+
+**Edge Impulse Studio** proved to be an exceptional platform for our research and development process. Here's how it helped us:
+
+- **Rapid Prototyping**: The intuitive web-based interface allowed us to quickly set up our ML pipeline without extensive infrastructure setup, enabling us to focus on model development rather than configuration overhead.
+
+- **Integrated Workflow**: From data ingestion to model deployment, Edge Impulse Studio provided a seamless, end-to-end pipeline. This integration was crucial for our iterative development process, allowing us to experiment with different architectures and hyperparameters efficiently.
+
+- **Real-time Monitoring**: The platform's real-time training visualization and performance metrics helped us identify overfitting early and make informed decisions about model adjustments.
+
+- **Edge Optimization Built-in**: Automatic quantization (INT8), model compression, and deployment-ready exports meant we could optimize for edge devices without deep expertise in model optimization techniques.
+
+- **Research-Friendly Features**: 
+  - Easy data organization and labeling
+  - Built-in data augmentation
+  - Comprehensive evaluation metrics (confusion matrices, ROC curves, per-class performance)
+  - Visual training graphs for analysis
+  - Export capabilities for further research
+
+- **Accessibility**: As students, the free tier and educational resources made advanced ML development accessible, allowing us to build a production-ready model without significant infrastructure costs.
+
+These features were instrumental in our iterative development process, enabling us to go from baseline model (69.6% accuracy) to optimized model (74.3% validation, 71.96% test accuracy) efficiently.
 
 ## Problem Statement
 
@@ -20,6 +49,51 @@ Diabetic retinopathy is a major cause of blindness in diabetic patients worldwid
 - ✅ Optimize for edge deployment (memory, latency, computational efficiency)
 - ✅ Document complete development pipeline and research process
 
+## Documentation Index
+
+This project includes comprehensive documentation in the `docs/` folder. Here's what you'll find in each file:
+
+### 📄 `docs/dataset_documentation.md`
+**What to expect:**
+- Complete dataset source information (Mendeley Diabetic Retinopathy Dataset)
+- Dataset statistics: 3,599 images across 5 DR severity classes
+- Class distribution analysis and imbalance handling strategies
+- Data preprocessing pipeline details (resizing, normalization, quality filtering)
+- Train/validation/test split methodology (70/15/15)
+- Edge Impulse integration process
+- Data quality assurance measures
+
+### 📄 `docs/model_development.md`
+**What to expect:**
+- Model architecture details (MobileNetV2 160×160 0.5)
+- Complete training strategy and hyperparameters
+- Iteration 1 and Iteration 2 training processes with visual documentation
+- Model optimization techniques (INT8 quantization, compression)
+- Edge Impulse Studio workflow walkthrough
+- Model selection rationale and trade-off analysis
+- Challenges faced and solutions implemented
+
+### 📄 `docs/validation_results.md`
+**What to expect:**
+- Comprehensive performance metrics (accuracy, precision, recall, F1-score)
+- Validation and test set results for both iterations
+- Per-class performance analysis
+- Confusion matrices with detailed breakdowns
+- Edge deployment performance metrics (model size, latency, memory usage)
+- Comparison between INT8 quantized and Float32 models
+- Error analysis and misclassification patterns
+- Model robustness testing results
+
+### 📄 `docs/research_log.md`
+**What to expect:**
+- Detailed documentation of Iteration 1 (baseline model)
+- Detailed documentation of Iteration 2 (optimized model)
+- Hypothesis, methodology, and results for each iteration
+- Key insights and learnings from each experiment
+- Error analysis and improvement strategies
+- Research timeline and outcomes
+- Visual documentation of training graphs and confusion matrices
+
 ## Project Structure
 
 ```
@@ -29,7 +103,8 @@ RetinaX/
 │   ├── dataset_documentation.md      # Dataset source, licensing, preprocessing
 │   ├── model_development.md          # Model architecture and training details
 │   ├── validation_results.md         # Performance metrics and evaluation
-│   └── research_log.md               # Iterative experiments and improvements
+│   ├── research_log.md               # Iterative experiments and improvements
+│   └── images/                       # Visual documentation (21 screenshots)
 ├── data/
 │   ├── raw/                          # Original dataset files
 │   ├── processed/                    # Preprocessed images ready for Edge Impulse
@@ -46,9 +121,11 @@ RetinaX/
 
 ## Dataset Information
 
-**Primary Dataset**: EyePACS (Kaggle) or similar open-source retinal fundus image datasets
+**Primary Dataset**: Mendeley Diabetic Retinopathy Dataset
 
 **License**: Open-source with permissive commercial use license
+
+**Dataset Source**: https://data.mendeley.com/datasets/nxcd8krdhg/1
 
 **Classes**:
 - No DR (No Diabetic Retinopathy)
@@ -291,15 +368,55 @@ See `docs/validation_results.md` for detailed performance metrics and evaluation
 - **Inference Latency**: 4,471 ms
 - **Target Device**: Cortex-M4F 80MHz
 
+### Edge Impulse Studio Impact on Results
+
+**Edge Impulse Studio** was instrumental in achieving these results:
+
+1. **Iterative Development**: The platform's streamlined workflow enabled us to rapidly iterate from Iteration 1 (67.29% test accuracy) to Iteration 2 (71.96% test accuracy) - a **+4.67% improvement** - by easily experimenting with different architectures and hyperparameters.
+
+2. **Built-in Optimization**: Edge Impulse's automatic INT8 quantization reduced our model size by **75%** (4.4 MB → 1.1 MB) with only a **2.34% accuracy drop**, making edge deployment feasible without extensive manual optimization.
+
+3. **Comprehensive Evaluation**: The platform's integrated evaluation tools provided detailed metrics (confusion matrices, per-class performance, ROC curves) that guided our optimization decisions and helped us identify areas for improvement.
+
+4. **Edge Deployment Ready**: The one-click deployment feature generated production-ready C++ libraries optimized for Cortex-M4F devices, eliminating the need for manual model conversion and optimization.
+
+5. **Research Transparency**: Visual training graphs, real-time metrics, and exportable results made it easy to document our research process, which is crucial for academic and hackathon submissions.
+
+The combination of Edge Impulse Studio's research-friendly features and our iterative approach resulted in a model that meets both accuracy (71.96%) and edge deployment constraints (1.1 MB, <5s inference), demonstrating the platform's effectiveness for edge AI research and development.
+
 ## License
 
 This project uses open-source datasets with permissive licenses. Please refer to individual dataset licenses for usage terms.
 
+## Conclusion
+
+This project successfully demonstrates the potential of **Edge Impulse Studio** for developing production-ready edge AI models for healthcare applications. Through systematic iteration and optimization, we achieved:
+
+- **71.96% test accuracy** on a quantized INT8 model
+- **1.1 MB model size** suitable for edge deployment
+- **Excellent generalization** (test accuracy within 2.5% of validation)
+- **Strong performance** on critical classes (No_DR: 95.3%, Moderate_DR: 77.4%)
+
+### Edge Impulse Studio: A Research Enabler
+
+**Edge Impulse Studio** proved to be more than just a development platform - it was a research enabler that:
+
+- **Accelerated Development**: Reduced time from concept to deployment-ready model
+- **Democratized ML**: Made advanced edge AI development accessible to students without extensive infrastructure
+- **Enabled Iteration**: Allowed rapid experimentation with different architectures and hyperparameters
+- **Ensured Quality**: Built-in best practices (quantization, validation, deployment optimization) ensured production-ready outputs
+- **Facilitated Documentation**: Integrated visualization and export features made research documentation seamless
+
+For our team of undergraduate students, Edge Impulse Studio was the perfect platform to learn, experiment, and deliver a high-quality edge AI solution for diabetic retinopathy detection. The platform's balance of ease-of-use and powerful features allowed us to focus on model development and optimization rather than infrastructure management, resulting in a project that demonstrates both technical competence and practical applicability.
+
+This project showcases how modern ML platforms like Edge Impulse Studio can empower students and researchers to tackle real-world healthcare challenges through edge AI, making advanced diagnostic tools accessible in resource-constrained environments.
+
 ## Acknowledgments
 
-- Edge Impulse Studio for the ML platform
-- EyePACS and other open-source retinal image dataset providers
-- Healthcare community for advancing accessible diagnostics
+- **Edge Impulse Studio** for providing an exceptional ML platform that made this research possible
+- **Mendeley Data** and other open-source retinal image dataset providers
+- **Healthcare community** for advancing accessible diagnostics
+- **Edge AI Hackathon** organizers for providing this opportunity to contribute to healthcare innovation
 
 ## Contact
 
